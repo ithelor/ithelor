@@ -1,5 +1,14 @@
 <div align="center">
 
+# Recent activity
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br />
+
+# Stats
+
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&theme=dracula" /></a>
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=dracula" /></a>
@@ -12,8 +21,12 @@
 <a href="https://github.com/ithelor/num-cloud-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithelor&repo=num-cloud-app&show_owner=true&theme=dracula" />
 </a>
+
+<br />
   
 ---
+
+<br />
 
 <a href="#">
 
