@@ -7,35 +7,8 @@
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true" height="150" /></a>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithelor&exclude_repo=TelegramTranslatorBot,DiseaseAnalysisTool,TimezoneConverter,wp&layout=compact&theme=dracula&hide_border=true" height="150" /></a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-<hr>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&theme=dracula&hide_border=true&v=2" height="200" /></a>
 
-<details>
-<summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ?? Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-2. ?? Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-3. ?? Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-<!--END_SECTION:activity-->
-
-</details>
-  
-<hr>
-
-<details>
-<summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-2. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-3. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-<!--END_SECTION:activity-->
-
-</details>
-  
 <hr>
 
 <a href="#">
