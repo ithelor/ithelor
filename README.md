@@ -11,6 +11,16 @@
 
 <hr>
 
+<details>
+<summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+  
+<hr>
+
 <a href="#">
 <img height="24" alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
 <img height="24" alt="HTML5" src="https://img.shields.io/badge/HTML5-282C34?logo=html5" />
