@@ -25,6 +25,19 @@
   
 <hr>
 
+<details>
+<summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
+2. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
+3. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
+<!--END_SECTION:activity-->
+
+</details>
+  
+<hr>
+
 <a href="#">
 <img height="24" alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
 <img height="24" alt="HTML5" src="https://img.shields.io/badge/HTML5-282C34?logo=html5" />
