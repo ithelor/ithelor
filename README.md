@@ -1,53 +1,29 @@
 <div align="center">
 
-# Recent activity
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-2. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-3. 🗣 Commented on [#19](https://github.com/IllDepence/anki_add_pitch_plugin/issues/19) in [IllDepence/anki_add_pitch_plugin](https://github.com/IllDepence/anki_add_pitch_plugin)
-<!--END_SECTION:activity-->
+<a href="#"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ithelor&theme=dracula&bg_color=transparent&hide_border=true" /><a>
 
-<br />
+<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ithelor&theme=dracula&hide_border=true" alt="ithelor" height="200" /></a>
 
-# Stats
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true" height="150" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithelor&exclude_repo=TelegramTranslatorBot,DiseaseAnalysisTool,TimezoneConverter,wp&layout=compact&theme=dracula&hide_border=true" height="150" /></a>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&theme=dracula" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&theme=dracula&hide_border=true" height="150" /></a>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=dracula" /></a>
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithelor&exclude_repo=TelegramTranslatorBot,DiseaseAnalysisTool,TimezoneConverter,wp&layout=compact&theme=dracula" /></a>
-
-<a href="https://github.com/ithelor/princess-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithelor&repo=princess-app&show_owner=true&theme=dracula" />
-</a>
-<a href="https://github.com/ithelor/num-cloud-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithelor&repo=num-cloud-app&show_owner=true&theme=dracula" />
-</a>
-
-<br />
-  
----
-
-<br />
+<hr>
 
 <a href="#">
-
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img height="24" alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
+<img height="24" alt="HTML5" src="https://img.shields.io/badge/HTML5-282C34?logo=html5" />
+<img height="24" alt="CSS3" src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6"  />
+<img height="24" alt="SASS" src="https://img.shields.io/badge/SASS-282C34?logo=sass&" />
+<img height="24" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" />
+<img height="24" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" />
+<img height="24" alt="React"  src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />
+<img height="24" alt="NodeJS"  src="https://img.shields.io/badge/NodeJS-282C34?logo=nodedotjs" />
+<img height="24" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" />
+<img height="24" alt="Express"  src="https://img.shields.io/badge/Express-282C34?logo=express" />
+<img height="24" alt="ESLint" src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" />
+<img height="24" alt="Prettier" src="https://img.shields.io/badge/Prettier-282C34?logo=prettier" />
 </a>
 
-<div>
+</div>
