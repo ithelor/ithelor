@@ -25,10 +25,10 @@
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ithelor&theme=dracula&bg_color=transparent&hide_border=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&theme=dracula&hide_border=true&v=2" height="198" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithelor&exclude_repo=TelegramTranslatorBot,DiseaseAnalysisTool,TimezoneConverter,wp&layout=compact&theme=dracula&hide_border=true" height="198" />
+</a>
 
   <hr>  
   
   <img src="https://github.com/ithelor/ithelor/blob/main/github-metrics.svg" alt="Metrics" width="60%">  
-</a>
   
 </div>
