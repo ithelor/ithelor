@@ -14,32 +14,15 @@ jobs:
 
           # Options
           user: ithelor
-          template: classic
-          base: header, activity, community, repositories, metadata
-          repositories: 100
-          repositories_skipped: DiseaseAnalysisTool, TimezoneConverter, wp
           config_display: regular
           config_padding: 0, 8 + 11%
           config_timezone: Asia/Vladivostok
-          plugin_followup: no
-          plugin_followup_sections: repositories
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 5
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 28
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_isocalendar_duration: year
           plugin_lines: yes
-          plugin_stars: no
-          plugin_stars_limit: 8
           plugin_skyline: yes
-          plugin_skyline_year: half-year
           plugin_skyline_frames: 60
+          plugin_skyline_quality: 1.0
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
