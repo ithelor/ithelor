@@ -20,12 +20,12 @@ jobs:
           config_timezone: Asia/Vladivostok
           plugin_isocalendar: yes
           plugin_isocalendar_duration: year
-          plugin_skyline: no
+          plugin_skyline: yes
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1.0
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 14
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_limit: 5
           plugin_achievements: yes
