@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Runs every 6 hours
-  schedule: [{cron: "0 */6 * * *"}]
+  # Runs at hour 0, 6, 12 and 18
+  schedule: [{cron: "0 0,6,12,18 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
