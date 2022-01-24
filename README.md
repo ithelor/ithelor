@@ -9,10 +9,11 @@
     <img height="24" alt="SASS" src="https://img.shields.io/badge/SASS-282C34?logo=sass&" />
     <img height="24" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" />
     <img height="24" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" />
-    <img height="24" alt="React"  src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />
-    <img height="24" alt="NodeJS"  src="https://img.shields.io/badge/NodeJS-282C34?logo=nodedotjs" />
+    <br>
     <img height="24" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" />
     <img height="24" alt="Express"  src="https://img.shields.io/badge/Express-282C34?logo=express" />
+    <img height="24" alt="React"  src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />
+    <img height="24" alt="NodeJS"  src="https://img.shields.io/badge/NodeJS-282C34?logo=nodedotjs" />
     <img height="24" alt="ESLint" src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" />
     <img height="24" alt="Prettier" src="https://img.shields.io/badge/Prettier-282C34?logo=prettier" />
   </a>
