@@ -13,7 +13,6 @@
     <img height="24" alt="React"  src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />
     <img height="24" alt="NodeJS"  src="https://img.shields.io/badge/NodeJS-282C34?logo=nodedotjs" />
     <img height="24" alt="Express"  src="https://img.shields.io/badge/Express-282C34?logo=express" />
-    <img height="24" alt="Firebase"  src="https://img.shields.io/badge/Firebase-282C34?logo=firebase" />
     <img height="24" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" />
     <img height="24" alt="ESLint" src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" />
     <img height="24" alt="Prettier" src="https://img.shields.io/badge/Prettier-282C34?logo=prettier" />
@@ -28,11 +27,11 @@
   <hr>
 
   <a href="https://github.com/ithelor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true" height="150" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ithelor&theme=dracula&hide_border=true" alt="ithelor" height="150" />
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ithelor&theme=dracula&bg_color=transparent&hide_border=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&langs_count=6&theme=dracula&hide_border=true&v=2" height="185" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithelor&langs_count=6&exclude_repo=TelegramTranslatorBot,DiseaseAnalysisTool,TimezoneConverter,wp&layout=compact&theme=dracula&hide_border=true" height="185" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=onedark&hide_border=true" height="150" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ithelor&theme=onedark&hide_border=true" alt="ithelor" height="150" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ithelor&theme=one-dark&bg_color=transparent&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&langs_count=6&theme=onedark&hide_border=true&v=2" height="185" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithelor&langs_count=6&exclude_repo=TelegramTranslatorBot,DiseaseAnalysisTool,TimezoneConverter,wp&layout=compact&theme=onedark&hide_border=true" height="185" />
   </a>
 
   <hr>
