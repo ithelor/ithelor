@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Runs at hour 0, 6, 12 and 18
-  schedule: [{cron: "0 0,6,12,18 * * *"}]
+  # Runs every 6 hours
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
@@ -25,7 +25,7 @@ jobs:
           plugin_habits_facts: yes
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: year
 
           plugin_achievements: no
          
