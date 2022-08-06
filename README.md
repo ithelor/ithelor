@@ -1,21 +1,22 @@
 <div align="center">
 
   <a href="https://github.com/ithelor">
-    <img alt='Wakatime Total shield' height="24" alt="Wakatime Total" src="https://wakatime.com/badge/user/c9ab2d55-a4dd-4ac5-9e83-34622e882bad.svg?style=social" />
+    <img alt='Wakatime Total shield' height="24" alt="Wakatime Total" src="https://wakatime.com/badge/user/c9ab2d55-a4dd-4ac5-9e83-34622e882bad.svg?style=for-the-badge" />
     <br>
-    <img alt='Visual shield' height="24" alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
-    <img alt='HTML5 shield' height="24" alt="HTML5" src="https://img.shields.io/badge/HTML5-282C34?logo=html5" />
-    <img alt='TypeScript shield' height="24" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" />
-    <img alt='JavaScript shield' height="24" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" />
-    <img alt='SASS shield' height="24" alt="SASS" src="https://img.shields.io/badge/SASS-282C34?logo=sass&" />
-    <img alt='CSS3 shield' height="24" alt="CSS3" src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6"  />
+    <img alt='Visual shield' height="24" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img alt='HTML5 shield' height="24" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt='TypeScript shield' height="24" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt='JavaScript shield' height="24" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt='SASS shield' height="24" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    <img alt='CSS3 shield' height="24" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
     <br>
-    <img alt='React shield' height="24" alt="React"  src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />
-    <img alt='NodeJS shield' height="24" alt="NodeJS"  src="https://img.shields.io/badge/NodeJS-282C34?logo=nodedotjs" />
-    <img alt='Express shield' height="24" alt="Express"  src="https://img.shields.io/badge/Express-282C34?logo=express" />
-    <img alt='MongoDB shield' height="24" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" />
-    <img alt='ESLint shield' height="24" alt="ESLint" src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" />
-    <img alt='Prettier shield' height="24" alt="Prettier" src="https://img.shields.io/badge/Prettier-282C34?logo=prettier" />
+    <img alt='React shield' height="24" alt="React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt='React Router shield' height="24" alt="React Router"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img alt='NextJS shield' height="24" alt="NextJS"  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img alt='NodeJS shield' height="24" alt="NodeJS"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt='Express shield' height="24" alt="Express"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img alt='MongoDB shield' height="24" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt='ESLint shield' height="24" alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   </a>
   
   <hr>
