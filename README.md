@@ -100,24 +100,24 @@
   <hr>
   <section>
     <img
-      alt="GitHub stats"
-      height="158"
-      src="https://github-readme-stats.vercel.app/api?username=ithelor&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="Profile details"
+      width="99.8%"
+      src="https://raw.githubusercontent.com/ithelor/ithelor/main/profile-summary-card-output/nord_bright/0-profile-details.svg"
     />
     <img
-      alt="Contribution streak"
-      height="158"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ithelor&theme=tokyonight&hide_border=true"
+      alt="Stats"
+      width="49.5%"
+      src="https://raw.githubusercontent.com/ithelor/ithelor/main/profile-summary-card-output/nord_bright/3-stats.svg"
     />
     <img
-      alt="Contribution graph"
-      width="100%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ithelor&theme=tokyonight"
+      alt="Productive time"
+      width="49.5%"
+      src="https://raw.githubusercontent.com/ithelor/ithelor/main/profile-summary-card-output/nord_bright/4-productive-time.svg"
     />
     <img
       alt="Wakatime stats"
-      width="100%"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&langs_count=10&theme=tokyonight&hide_border=true&v=2&layout=compact&hide_title=true"
+      width="99.8%"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=@ithelor&langs_count=10&v=2&layout=compact&bg_color=eceff4&text_color=2e3440&title_color=2e3440&hide_title=true"
     />
   </section>
   <hr>
