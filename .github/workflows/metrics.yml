@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: { branches: ["main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,26 +14,10 @@ jobs:
 
           base: no
           config_display: regular
-          config_padding: 0, 8 + 11%
           config_timezone: Asia/Vladivostok
 
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 28
-          plugin_habits_charts: no
-          plugin_habits_facts: yes
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          plugin_achievements: no
-         
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, editors
-          plugin_wakatime_limit: 5
-          
-          plugin_skyline: no
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 1.0
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
+          plugin_wakatime_limit: 3
