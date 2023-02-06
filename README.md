@@ -102,17 +102,17 @@
     <img
       alt="Profile details"
       width="99.8%"
-      src="https://raw.githubusercontent.com/ithelor/ithelor/main/profile-summary-card-output/nord_bright/0-profile-details.svg"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ithelor&theme=nord_bright"
     />
     <img
       alt="Stats"
       width="49.5%"
-      src="https://raw.githubusercontent.com/ithelor/ithelor/main/profile-summary-card-output/nord_bright/3-stats.svg"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ithelor&theme=nord_bright"
     />
     <img
       alt="Productive time"
       width="49.5%"
-      src="https://raw.githubusercontent.com/ithelor/ithelor/main/profile-summary-card-output/nord_bright/4-productive-time.svg"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ithelor&theme=nord_bright"
     />
     <img
       alt="Wakatime stats"
