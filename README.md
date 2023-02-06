@@ -112,7 +112,7 @@
     <img
       alt="Productive time"
       width="49.5%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ithelor&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ithelor&theme=nord_bright&utcOffset=10"
     />
     <img
       alt="Wakatime stats"
