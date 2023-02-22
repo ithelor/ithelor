@@ -117,7 +117,7 @@
     <img
       alt="Wakatime stats"
       width="99.8%"
-      src="https://github-readme-stats.zohan.tech/api/wakatime?username=ithelor&langs_count=6&v=2&bg_color=eceff4&text_color=2e3440&title_color=88c0d0&hide_title=true"
+      src="https://github-readme-stats-git-fixwaka-605c1a-github-readme-stats-team.vercel.app/api/wakatime?username=ithelor&langs_count=6&v=2&bg_color=eceff4&text_color=2e3440&title_color=88c0d0&hide_title=true"
     />
   </section>
   <hr>
