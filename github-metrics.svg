@@ -55,8 +55,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">bbr-frontend</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 70.728%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">88%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">illuzion-kiosk-frontend</span>
+                                <div class="bar" style="width: 9.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                         </div>
                     </section>
@@ -65,28 +70,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 58.647999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 10.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 65.34400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">82%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">GraphQL</span>
-                                <div class="bar" style="width: 5.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.752000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 4.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 3.4000000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TSQL</span>
-                                <div class="bar" style="width: 0.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 1.7679999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ActionScript 3</span>
+                                <div class="bar" style="width: 1.6800000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
