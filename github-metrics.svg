@@ -55,27 +55,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">literoved-frontend</span>
-                                <div class="bar" style="width: 52.272%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">65%</span>
+                                <div class="bar" style="width: 52.816%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">66%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">m-service-frontend</span>
-                                <div class="bar" style="width: 16.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">bbr-frontend</span>
-                                <div class="bar" style="width: 10.031999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 9.040000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vivid-frontend</span>
-                                <div class="bar" style="width: 0.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8160000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">t1-frontend</span>
-                                <div class="bar" style="width: 0.19199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -85,22 +85,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 62.263999999999996%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">78%</span>
+                                <div class="bar" style="width: 63.184000000000005%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">79%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 14.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 13.896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 1.9120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.8399999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 0.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
