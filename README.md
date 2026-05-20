@@ -40,10 +40,6 @@
   <section>
     <img alt="Profile details" width="99.8%"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ithelor&theme=nord_bright" />
-    <img alt="Stats" width="49.5%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ithelor&theme=nord_bright" />
-    <img alt="Productive time" width="49.5%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ithelor&theme=nord_bright&utcOffset=10" />
     <img alt="Wakatime stats" width="99.8%"
       src="https://github-stats-extended.vercel.app/api/wakatime?username=ithelor&langs_count=6&v=2&bg_color=eceff4&text_color=2e3440&title_color=88c0d0&hide_title=true" />
   </section>
